@@ -24,6 +24,8 @@ end
 
 Start by writing a simple method that takes in `time` as a parameter and uses an **if statement** to check if `time` is greater than or equal to curfew, 11. To pass the spec, check out what the test what you to output. Type `learn` into your command line from the **root directory of the project** to see if the first test passes.
 
+
+
 ### Curfew Checker
 
 In the last section we wrote a simple **if statement**. Let's get a little more specific with an **if/else statement**. An **if/else statement** first checks the condition of the if statement. If that returns false, it moves onto the else statement and executes the code in that branch. In an **if/else statement**, some code will always get executed. Let's review the syntax:
